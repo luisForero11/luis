@@ -8,3 +8,4 @@ while(x>0){
     x=x-1
 }
 console.log("el resultado es " + suma)
+console.log(12==="12")
