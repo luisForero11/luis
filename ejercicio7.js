@@ -1,4 +1,4 @@
-let i=200
+let i=1
 let add=0
 do {
     console.log(i)
